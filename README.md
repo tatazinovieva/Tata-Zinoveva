@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tata-Z
+- 👋 Hi, I’m @Tata Zinovieva
 - 👀 I’m interested in linguistics, languages and literature
 - 🌱 I’m currently learning NLP and online education tools
 - 💞️ I’m looking to collaborate on language learning stuff
